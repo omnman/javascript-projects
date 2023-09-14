@@ -6,4 +6,3 @@ console.log("First name: " , first_name);
 console.log("Last name: " , last_name);
 console.log('Last, First: ' , last_name + ',' , first_name)
 
-
