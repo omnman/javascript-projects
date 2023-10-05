@@ -16,3 +16,4 @@ if (String(num2).includes('.')){
     } else {
     console.log(String(num2).length);
     }
+    
